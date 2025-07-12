@@ -1,1 +1,1 @@
-# Smart-Stay-Accommodation-Portal-for-IIITK
+# TechDorm
